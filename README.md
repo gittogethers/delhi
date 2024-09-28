@@ -20,7 +20,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 | Community Leader | Community Volunteer | Community Volunteer |
 |:---:|:---:|:---:|
-| <img src="https://github.com/vipulgupta2048.png" width="80" height="80" style="border-radius: 50%;" alt="Vipul Gupta"><br>**[Vipul Gupta](https://docs.mixster.dev)**<br>Senior Software Engineer @ Balena, Docs @ Mixster  | <img src="https://github.com/shivaylamba.png" width="80" height="80" style="border-radius: 50%;" alt="Shivay Lamba"><br>**[Shivay Lamba](https://github.com/shivaylamba)**<br>Developer Advocate at Couchbase | <img src="https://github.com/.png" width="80" height="80" style="border-radius: 50%;" alt="Chhavi Garg"><br>**[Chhavi Garg](https://github.com/)**<br>Co-founder @bharat_xr & @arexaxr |
+| <img src="https://github.com/vipulgupta2048.png" width="80" height="80" style="border-radius: 50%;" alt="Vipul Gupta"><br>**[Vipul Gupta](https://docs.mixster.dev)**<br>Senior Software Engineer @ Balena, Docs @ Mixster  | <img src="https://github.com/shivaylamba.png" width="80" height="80" style="border-radius: 50%;" alt="Shivay Lamba"><br>**[Shivay Lamba](https://github.com/shivaylamba)**<br>Developer Advocate at Couchbase | <img src="https://github.com/chhavi-gg.png" width="80" height="80" style="border-radius: 50%;" alt="Chhavi Garg"><br>**[Chhavi Garg](https://github.com/chhavi-gg)**<br>Co-founder @bharat_xr & @arexaxr |
 
 -------------
 
