@@ -1,18 +1,17 @@
-[![image](/assets/cover-image.png)](https://www.meetup.com/gittogether-bengaluru)
+[![image](https://secure.meetupstatic.com/photos/event/b/a/f/clean_522902991.webp)](https://www.meetup.com/gittogether-delhi)
 
-<br>
 
-Welcome to **GitTogether Bengaluru** – the ultimate gathering for developers in and around Bengaluru, India. Powered by GitHub and led by passionate community leaders, our events cover diverse topics such as AI, Open Source, Security, and more. 
+Welcome to **GitTogether Delhi** – the ultimate gathering for developers in and around Delhi, India. Powered by GitHub and led by passionate community leaders, our events cover diverse topics such as AI, Open Source, Security, and more. 
 
 Join us to engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level.
 
 
-[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-bengaluru)
+[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-Delhi)
 
 
 -------------
 
-- **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Bengaluru group](https://www.meetup.com/gittogether-bengaluru) on Meetup.
+- **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Delhi group](https://www.meetup.com/gittogether-Delhi) on Meetup.
 - **Attend GitTogethers**: Register for upcoming events using the links provided above.
 - **Become a speaker**: Submit your session proposal at [gh.io/cfs](https://gh.io/cfs)
 - **Showcase your project**: Apply for our Community Spotlight at [gh.io/spotlight](https://gh.io/spotlight)
@@ -21,7 +20,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 | Community Leader | Community Volunteer | Community Volunteer |
 |:---:|:---:|:---:|
-| <img src="https://github.com/swaminathanvetri.png" width="80" height="80" style="border-radius: 50%;" alt="Swaminathan Vetri"><br>**[Swaminathan Vetri](https://github.com/swaminathanvetri)**<br>Lead Platform Architect at Maersk | <img src="https://github.com/Frenzyritz13.png" width="80" height="80" style="border-radius: 50%;" alt="Ritvi Mishra"><br>**[Ritvi Mishra](https://github.com/Frenzyritz13)**<br>Education Services Specialist at BigCommerce | <img src="https://github.com/eraditya-sharma.png" width="80" height="80" style="border-radius: 50%;" alt="Aditya Sharma"><br>**[Aditya Sharma](https://github.com/eraditya-sharma)**<br>Data Engineer (IT Analyst) at TCS |
+| <img src="https://github.com/vipulgupta2048.png" width="80" height="80" style="border-radius: 50%;" alt="Vipul Gupta"><br>**[Vipul Gupta](https://docs.mixster.dev)**<br>Senior Software Engineer @ Balena, Docs @ Mixster  | <img src="https://github.com/shivaylamba.png" width="80" height="80" style="border-radius: 50%;" alt="Shivay Lamba"><br>**[Shivay Lamba](https://github.com/shivaylamba)**<br>Developer Advocate at Couchbase | <img src="https://github.com/.png" width="80" height="80" style="border-radius: 50%;" alt="Chhavi Garg"><br>**[Chhavi Garg](https://github.com/)**<br>Co-founder @bharat_xr & @arexaxr |
 
 -------------
 
@@ -38,30 +37,16 @@ Are you passionate about open-source development and have a project you'd love t
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
 - For all other inquiries, please drop us an email at meetups@github.com
 
-Join us in shaping the future of software development and connecting with Bengaluru's brightest minds in technology!
+Join us in shaping the future of software development and connecting with Delhi's brightest minds in technology!
 
 ## Upcoming Events
 
-### GitTogether Bengaluru - 28th September 2024
-- [Event Link](https://www.meetup.com/gittogether-bengaluru/events/303522982/)
-- [Event Resources](./GitTogether%20Bengaluru%202024-09-28)
+### GitTogether Delhi - 28th September 2024
+- [Event Link](https://www.meetup.com/gittogether-delhi/events/303294169)
+- [Event Resources](https://secure.meetupstatic.com/photos/event/b/1/a/d/600_523605485.webp)
 
-[![September 2024 Event](/assets/2024-09-28.png)](https://www.meetup.com/gittogether-bengaluru/events/303522982/)
+---
 
--------------
+Checkout [meetup.com for past events](https://www.meetup.com/gittogether-delhi/events/past/)
 
-## Past Events
 
-### GitTogether Bengaluru - 24th August 2024
-- [Event Link](https://www.meetup.com/gittogether-bengaluru/events/302784046/)
-- [Event Resources](./GitTogether%20Bengaluru%202024-08-24)
-
-[![August 2024 Event](/assets/2024-08-24.png)](https://www.meetup.com/gittogether-bengaluru/events/302784046/)
-
---------
-
-### GitTogether Bengaluru - 5th July 2024
-- [Event Link](https://www.meetup.com/gittogether-bengaluru/events/301709790/)
-- [Event Resources](./GitTogether%20Bengaluru%202024-07-05)
-
-[![July 2024 Event](/assets/2024-07-05.jpg)](https://www.meetup.com/gittogether-bengaluru/events/301709790/)
