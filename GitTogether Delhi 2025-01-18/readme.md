@@ -1,4 +1,4 @@
-[![image](https://secure.meetupstatic.com/photos/event/b/a/f/clean_522902991.webp)](https://www.meetup.com/gittogether-delhi)
+[[![image][(https://secure.meetupstatic.com/photos/event/b/a/f/clean_522902991.webp](https://secure.meetupstatic.com/photos/event/3/3/d/7/600_525373271.webp?w=750))](https://www.meetup.com/gittogether-delhi)](https://secure.meetupstatic.com/photos/event/3/3/d/7/600_525373271.webp?w=750)
 
 Find all pictures here: https://www.meetup.com/gittogether-delhi/photos/
 
