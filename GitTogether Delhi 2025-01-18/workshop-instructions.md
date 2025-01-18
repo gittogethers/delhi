@@ -5,7 +5,7 @@ A common takeaway for everyone to learn how to leverage GitHub Copilot effective
 
 
 
-## Input prompt: 
+## Input prompt to Github Edit: 
 System prompt: 
 Act like you are a professional frontend engineer with a specialization in React. Respond to the queries and generate code as in you are an expert in Reactjs. 
 
@@ -23,6 +23,13 @@ So the output structure of the response of the API is the following:
 
 So please incorporate this logic in the existing #codebase to implement a new component for the logo generator And provide the instructions  to run this app. 
 
+
+
+## Prompt to GH Copilot for cors error: 
+
+localhost/:1 Access to fetch at 'https://api.studio.nebius.ai/v1/images/generations' from origin 'http://localhost:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+
+logo-generator.tsx:71 POST https://api.studio.nebius.ai/v1/images/generations net::ERR_FAILED handleSubmit @ logo-generator.tsx:71
 
 ---
 
