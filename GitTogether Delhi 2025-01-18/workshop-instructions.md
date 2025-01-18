@@ -3,6 +3,23 @@
 ## Goal
 A common takeaway for everyone to learn how to leverage GitHub Copilot effectively.
 
+
+
+## Input prompt: 
+System prompt: 
+Act like you are a professional frontend engineer with a specialization in React. Respond to the queries and generate code as in you are an expert in Reactjs. 
+
+The application that we are building is a logo generator application with the following components: 
+
+So we have an input form: Brand name, Style of the logo, color, background color, we describe what model user needs to use, image size, quality of the image 
+So the above sections consistute the input form parameters for my form to generate the logo. 
+
+Once the user submits this request, we call the Nebius AI endpoint. That the structure for how to use the fetch request on the CURL is defined in the #file:instruct.md which has the a React component that handles the logo generation form and API call using fetch instead of the OpenAI client library helps to generate the actual logo. 
+
+So please incorporate this logic in the existing #codebase to implement a new component for the logo generator And provide the instructions  to run this app. 
+
+
+I want to create a logo 
 ---
 
 ## Theme
