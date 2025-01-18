@@ -16,10 +16,14 @@ So the above sections consistute the input form parameters for my form to genera
 
 Once the user submits this request, we call the Nebius AI endpoint. That the structure for how to use the fetch request on the CURL is defined in the #file:instruct.md which has the a React component that handles the logo generation form and API call using fetch instead of the OpenAI client library helps to generate the actual logo. 
 
+So now once the logo has been generated, we should have a new section which displays the rendered image and we have the capability to download this image as well. 
+
+So the output structure of the response of the API is the following: 
+{"data":[{"url":"https://pictures-storage.storage.eu-north1.nebius.cloud/text2img-4cbe777e-01ac-4b6b-9985-6a1998e395ce_00001_.jpg"}],"id":"text2img-4cbe777e-01ac-4b6b-9985-6a1998e395ce"}%  
+
 So please incorporate this logic in the existing #codebase to implement a new component for the logo generator And provide the instructions  to run this app. 
 
 
-I want to create a logo 
 ---
 
 ## Theme
