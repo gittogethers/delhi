@@ -1,4 +1,4 @@
-[![image](https://secure.meetupstatic.com/photos/event/b/a/f/clean_522902991.webp)](https://www.meetup.com/gittogether-delhi)
+[![image](https://secure.meetupstatic.com/photos/event/3/3/d/7/clean_525373271.webp)](https://www.meetup.com/gittogether-delhi)
 
 
 Welcome to **GitTogether Delhi** – the ultimate gathering for developers in and around Delhi, India. Powered by GitHub and led by passionate community leaders, our events cover diverse topics such as AI, Open Source, Security, and more. 
@@ -41,9 +41,7 @@ Join us in shaping the future of software development and connecting with Delhi'
 
 ## Upcoming Events
 
-### GitTogether Delhi - 28th September 2024
-- [Event Link](https://www.meetup.com/gittogether-delhi/events/303294169)
-- [Event Resources](https://secure.meetupstatic.com/photos/event/b/1/a/d/600_523605485.webp)
+### To Be Announced
 
 ---
 
