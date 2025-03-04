@@ -8,6 +8,8 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Upcoming Events
 
+- [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/306485599/) on 22nd March 2025
+
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-delhi)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Delhi group](https://www.meetup.com/gittogether-delhi) on Meetup.
