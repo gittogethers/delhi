@@ -8,14 +8,14 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Upcoming Events
 
-[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-bengaluru)
+[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-delhi)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Delhi group](https://www.meetup.com/gittogether-delhi) on Meetup.
 - **Attend GitTogethers**: Register for upcoming events using the links provided above.
 - **Become a speaker**: Submit your session proposal at [gh.io/cfs](https://gh.io/cfs)
 - **Showcase your project**: Apply for our Community Spotlight at [gh.io/spotlight](https://gh.io/spotlight)
 
-## GitTogether Bengaluru Team
+## GitTogether Delhi NCR Team
 
 | Community Leader | Community Volunteer | Community Volunteer |
 |:---:|:---:|:---:|
