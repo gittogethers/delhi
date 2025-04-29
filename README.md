@@ -10,6 +10,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 - [From Idea to Impact: GitTogether Product Meetup](https://www.meetup.com/gittogether-delhi/events/307459778/) on 17th May 2025
 - [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307190906/) on 21st June 2025
+- [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307544295/) on 19th July 2025
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
 
